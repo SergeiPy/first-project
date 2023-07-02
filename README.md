@@ -16,6 +16,7 @@
 ## Заголовок второго уровня
 2. Дополнить инфу про git log
 ### Заголовок третьего уровня
+3. Добавили 2 команды git в код
 
 ## Выделение кода
 
@@ -25,5 +26,7 @@
 mkdir my_project
 cd my_project
 git init
+git status
+git push -f origin master
 ```
 Это лишь некоторые функции markdown.
